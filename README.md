@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Page transition example in Next.js with React Transition Group
+
+![](/assets/demo.gif)
